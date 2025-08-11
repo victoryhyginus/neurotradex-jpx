@@ -46,3 +46,4 @@ logs/
 *.tmp
 *.bak
 jpx_private_results/
+jpx_private_reports/
